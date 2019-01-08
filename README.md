@@ -16,4 +16,8 @@ Blender is a open source 3d modeling software and these model are made using the
 ![DEagle](https://github.com/ShivamRawat0l/Blender/blob/master/Rendered/untitled.png)
 
 ## Awp
-![Awp](
+![Awp](https://github.com/ShivamRawat0l/Blender/blob/master/Rendered/Awp.jpg)
+
+
+## Can you use it for free ? 
+These model are free and can be used in the places they want
