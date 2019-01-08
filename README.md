@@ -9,5 +9,11 @@ Blender is a open source 3d modeling software and these model are made using the
 
 
 # Sample Models
+## Donut
+![Donut](https://github.com/ShivamRawat0l/Blender/blob/master/Rendered/DonutWithEffect.png)
 
-![Rendered](https://github.com/ShivamRawat0l/Blender/blob/master/Rendered/DonutWithEffect.png)
+## D Eagle
+![DEagle](https://github.com/ShivamRawat0l/Blender/blob/master/Rendered/untitled.png)
+
+## Awp
+![Awp](
